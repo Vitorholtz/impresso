@@ -109,7 +109,7 @@ header .header-container .navigation-bar .impresso {
 }
 
 header .header-container .navigation-bar .impresso::after {
-  width: 100%;
+  display: none;
 }
 
 header .header-container img {
